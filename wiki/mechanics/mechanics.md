@@ -18,7 +18,7 @@ A pile is a stack of cards where each card may either reversed or normal. The to
 An entitiy single identifiable object in the game that is able to interact with other entities.
 
 ## Combat
-Combat is an event when an entity declares an *Attack* action against another entity with *Combatant*.
+Combat is an event in which an entity declares an *Attack* action against another entity with *Combatant*.
 
 ## Modules
 ## Scenarios
