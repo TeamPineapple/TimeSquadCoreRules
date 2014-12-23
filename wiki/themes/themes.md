@@ -6,4 +6,6 @@ Time Squad is a game where a party of explorers seek to manipulate time to preve
 ###  Time Lord
 ###  Module
 
-Describes how to win a game of Time Squad. Includes a listing of the time deck and scenarios.Scenario
+Describes how to win a game of Time Squad. Includes a listing of the time deck and scenarios.
+
+### Scenario
