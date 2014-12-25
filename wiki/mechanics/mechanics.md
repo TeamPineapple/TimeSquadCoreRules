@@ -10,6 +10,8 @@ An action is any effect that an entity may impose on another entity. Some action
 A pile is a stack of cards where each card may either reversed or normal. The top card of a pile must be normal, however cards below can be either. A player may only interact with the top card of a pile.
 
 ## Time Deck
+A pile of cards that represent the amount of time is left before the end of the world/
+
 ## Flip
 Turn a reversed card, face up.
 
@@ -21,6 +23,8 @@ A location represents a place that a team of explorers encounters on their journ
 A reversed card is a card that is typically face-down.
 
 ## Explorer
+A player character.
+
 ## Entity
 An entitiy single identifiable object in the game that is able to interact with other entities.
 
